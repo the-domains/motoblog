@@ -1,7 +1,7 @@
 name: Motoblog
 favicon: null
-layout_spectrum: 0.829077358590439
-typography_spectrum: 0.17663760809227824
+layout_spectrum: 1
+typography_spectrum: 0.24818
 title: Motoblog
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9705344883259386
-  lightness: 0.5245372054632753
-  saturation: 0.653478296007961
-  rhythmicContrast: 0.26070470293052495
+    - '#eeeee6'
+    - '#010101'
+    - '#8e989c'
+    - '#2c261f'
+    - '#92725a'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
