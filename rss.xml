@@ -4,8 +4,15 @@
         <description><![CDATA[Motoblog]]></description>
         <link>https://thegrid.ai/motoblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 01:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 12:30:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motoblog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Primer rodada en la Royal Enfield Rumbler 500.</p>]]></description>
+            <link>https://thegrid.ai/motoblog/primer-rodada-en-la-royal-enfield-rumbler-500/index.html</link>
+            <guid isPermaLink="false">3117cac6-ebcf-42f1-80f8-5027c708b9e8</guid>
+            <pubDate>Fri, 08 Apr 2016 12:30:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a829ff35-82f8-40f1-b5cb-5c7d002d8484.jpg">]]></description>
